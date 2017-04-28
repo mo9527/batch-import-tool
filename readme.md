@@ -1,4 +1,4 @@
-#batch-import 已编译好的，可直接使用
+# batch-import 已编译好的，可直接使用
 
 
 cd到此项目根目录，执行导入命令
